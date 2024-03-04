@@ -37,7 +37,7 @@
   
   <macro name="author">
     <names variable="author">
-    	<name initialize="false" and="text" name-as-sort-order="all" sort-separator=", " delimiter=", " delimiter-precedes-last="never" font-weight="bold">
+    	<name initialize="false" and="symbol" name-as-sort-order="all" sort-separator=", " delimiter=", " delimiter-precedes-last="never" font-weight="bold">
         <name-part name="family" text-case="uppercase" font-weight="bold"/>
         <name-part name="given" font-weight="bold"/>
       </name>
